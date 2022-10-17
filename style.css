@@ -44,7 +44,7 @@ img.icon {
 }
 
 
-/*ADD HERE*/
+/*This is your spacing for main content*/
 
 
 .container {
@@ -54,7 +54,7 @@ img.icon {
     margin-top: 50px;
     padding: 10px;
     background-color: lightpink;
-    text-align: center;
+    text-align: left;
     display: flex; /* or inline-flex */
 }
 
@@ -71,7 +71,7 @@ figure {
     padding-bottom: 5px;
 }
 
-/*ADD HERE*/
+/*Here are your flex class is defined*/
 .flex {
     padding: 10px
 }
@@ -100,7 +100,7 @@ figcaption {
 *********************************************************************/
 @media(min-width: 780px) {
 
-    /*ADD HERE*/
+    /*Flex details go here*/
 
 .flex {
     display: flex;
